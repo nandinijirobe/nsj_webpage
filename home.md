@@ -1,8 +1,8 @@
 ---
 photo: ../photos/portrait3.jpg
-title: Assoc. Prof. of Computer Science
+title: M.S Computer Science Student
 ---
-# open PhD positions
+# About Me
 I am currently looking to recruit up to 4 new PhD students to work on core computer systems research. Positions are fully funded, primarily via research assistantship. Send me an email to learn more about this opportunity. 
 
 # research interests 
