@@ -1,7 +1,7 @@
 ---
 name: Nandini Jirobe
 title: Top Notch Communicator
-photo: ../photos/portrait2.jpg
+photo: ../photos/portrait.jpg
 ---
 
 # contact info
