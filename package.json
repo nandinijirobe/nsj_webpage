@@ -2,7 +2,7 @@
   "scripts": {
     "start": "npx eleventy --serve & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --watch",
     "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --minify",
-    "deploy": "npm run build && gh-pages -d _site"
+    "deploy": "npm run build && gh-pages -d _site -r git@github.com:nandinijirobe/nsj_webpage.git"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
